@@ -92,3 +92,5 @@ if ($conn->connect_error) {
 6. Acessar o Site
 Agora que você copiou o projeto para a pasta htdocs e configurou o banco de dados, abra seu navegador e acesse o seguinte endereço:
   http://localhost/projeto_de_extensao
+Aqui está o site na web para você ter como exemplo de como ele deve estar
+http://vinhosdabia.freesite.online/
